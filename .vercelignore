@@ -1,0 +1,11 @@
+.git
+.github
+.claude
+tmp
+node_modules
+.next
+coverage
+*.log
+*.html
+tsconfig.tsbuildinfo
+

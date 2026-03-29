@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" fill="none">
+  <rect x="0" y="4" width="36" height="36" rx="9" fill="#0E3D2C" stroke="#64BE92" stroke-width="1.5"/>
+  <path d="M10 22.5L16.5 29L26 15" stroke="#64BE92" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46" y="18" font-family="Georgia, serif" font-size="13.5" font-weight="700" fill="#ffffff" letter-spacing="0.3">bookkeeping</text>
+  <text x="46" y="35" font-family="Georgia, serif" font-size="13.5" font-style="italic" fill="#F2C94C">aldía</text>
+</svg>
